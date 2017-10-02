@@ -1,0 +1,27 @@
+#div_g { 
+  position: absolute;
+  left: 40px; 
+  right: 40px;
+}
+
+.dygraph-xlabel {
+  text-align: center;
+  color: #666;
+}
+
+.dygraph-ylabel {
+  transform: rotate(-90deg);
+  text-align: center;
+  color: #666;
+}
+
+.dygraph-axis-label {
+  color: #999;
+}
+
+.dygraph-legend {
+  position: absolute;
+  width: 100%;
+  top: 105% !important;
+  text-align: center;
+}
